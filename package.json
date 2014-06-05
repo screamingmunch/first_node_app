@@ -1,3 +1,4 @@
+//this file specifies it as an node app; it gets run by npm
 {
   "name": "first_node_app",
   "version": "0.0.0",
